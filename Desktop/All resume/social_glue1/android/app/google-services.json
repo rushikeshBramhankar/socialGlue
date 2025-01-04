@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43625461858",
+    "project_id": "socialglue-cb8cc",
+    "storage_bucket": "socialglue-cb8cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43625461858:android:d767ae9c2205a593b3b93b",
+        "android_client_info": {
+          "package_name": "com.social.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLZja3IkjT4t9LZnn--dQTWM69d0RRnOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
